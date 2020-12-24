@@ -1,0 +1,30 @@
+.row{
+    margin-top:20vh;
+    color: black !important;
+}
+
+body{
+    background-color: #BEDCFA;
+}
+
+#title{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#heading{
+    font-size: larger !important;
+    color: black;
+}
+
+.card-panel{
+    border: black 5px solid;
+}
+
+.top-panel{
+    background: #00416D;
+    color: white;
+}
+
+#message-show h1{
+    margin-top:0;
+}
