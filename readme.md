@@ -13,11 +13,12 @@ _This app allows you to create a special link for your message and then share th
 <hr/>
 
 **How the app works?**
->The message written is encoded.The btoa() method encodes a string in base-64.
+>Message is entered by the user and it is encoded in base-64 encoding .
 
->A link is created corresponding to that message .The new link is : currentLink+encodedMessage.
+>A link is created corresponding to that message .
 
->Copy the link to new tab and the message simply get decoded again automatically.
+>Copy the link to new tab and the message simply get decoded automatically.
+
 <hr />
 
 ![alt text](/media/demo1.gif)
